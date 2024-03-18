@@ -1,0 +1,12 @@
+h1{
+    color: Red;
+    background-color: rgb(226, 240, 204);
+    text-align: center;
+    text-transform: uppercase;
+}
+h2{
+    color: white;
+    background-color: rgba(48, 42, 42, 0.719);
+    text-transform: uppercase;
+    text-align: center;
+}
